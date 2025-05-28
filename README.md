@@ -1,6 +1,6 @@
 Dvyaas
 
-# IP Logger Demo
+# IP Logger
 
 This is a simple project to demonstrate how GitHub Pages can be used to host a basic IP logger (for educational purposes only).
 
